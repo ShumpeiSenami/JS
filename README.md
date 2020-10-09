@@ -1,1 +1,1 @@
-# JS
+# Javascriptの学習用のリポジトリ
